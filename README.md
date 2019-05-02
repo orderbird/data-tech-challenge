@@ -1,7 +1,7 @@
 # data-tech-challenge
 Hey Data Scientist. Welcome. Your mission, should you choose to accept it is to analyse the following data and get back to us with the results.
 
-##The Data
+## The Data
 
 
 You are given a sample data dump (csv-format) comprising of invoiced items of various orderbird customers. A row consists of 
