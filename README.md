@@ -24,7 +24,7 @@ To this end, we ask you to create a jupyter/IPython notebook in which you solve 
 
 ## The Tasks:
 
-1. Extract a list of all distinct Jägermeister (JM) item names
+1. Extract a list of all distinct Jägermeister (JM) item names 
 2. What are the top 10 most ordered JM items in terms of
    * item count? 
    * turnover?
@@ -38,6 +38,9 @@ To this end, we ask you to create a jupyter/IPython notebook in which you solve 
 5. BONUS: Come up with an additional (potentially interesting) insight based on the given data. What else could you compare? What would be interesting to learn for Jägermeister?  
 
 If you have any questions regarding these tasks, please just get in touch ( Tech-challenge@orderbird.com ) so we can clarify.
+
+### Hint
+Regarding no 1. : please do not aim for 100% accuracy here, since this can be a real time-sucker :-) .Start with a "good enough" solution first and describe future improvements without implementing these.
 
 ## And now what?
 Please send your jupyter/IPython notebook to Tech-challenge@orderbird.com and we will get back to you asap. 
