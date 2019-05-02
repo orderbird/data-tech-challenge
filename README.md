@@ -29,7 +29,7 @@ item count turnover?
 6. find the item name which is sold the most in terms of turnover
 7. BONUS: Come up with an additional (potentially interesting) insight based on the given data. What else could you compare? E.g. else what would be iteresting to learn for Jägermeister?  
 
-If you have any questions regarding these tasks, please just get in touch ( Tech-challenge@orderbird.com )so we can claryfy.
+If you have any questions regarding these tasks, please just get in touch ( Tech-challenge@orderbird.com )so we can clarify.
 
 ## And now what?
 Please send your jupyter/IPython notebook to Tech-challenge@orderbird.com and we will get back to you asap. 
