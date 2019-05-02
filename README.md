@@ -3,6 +3,7 @@ Hey Data Scientist. Welcome. Your mission, should you choose to accept it is to 
 
 ## The Data
 
+(see repository)
 
 You are given a sample data dump (csv-format) comprising of invoiced items of various orderbird customers. A row consists of 
 venue_id (string)
@@ -31,7 +32,8 @@ item count turnover?
 If you have any questions regarding these tasks, please just get in touch ( Tech-challenge@orderbird.com )so we can claryfy.
 
 ## And now what?
-Please send your jupyter/IPython notebook to Tech-challenge@orderbird.com and we will get back to you asap.
+Please send your jupyter/IPython notebook to Tech-challenge@orderbird.com and we will get back to you asap. 
+Please *do not* create a pull request of fork this repository as your solution should not be end up being public afterwards.
 
 Good luck and happy coding!
 
