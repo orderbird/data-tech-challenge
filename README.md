@@ -40,7 +40,7 @@ To this end, we ask you to create a jupyter/IPython notebook in which you solve 
 If you have any questions regarding these tasks, please just get in touch ( Tech-challenge@orderbird.com ) so we can clarify.
 
 ### Hint
-Regarding no 1. : please do not aim for 100% accuracy here, since this can be a real time-sucker :-) .Start with a "good enough" solution first and describe future improvements without implementing these.
+Regarding task no 1. : please do not aim for 100% accuracy here, since this can be a real time-sucker :-) .Start with a "good enough" solution first and describe future improvements without implementing these.
 
 ## And now what?
 Please send your jupyter/IPython notebook to Tech-challenge@orderbird.com and we will get back to you asap. 
